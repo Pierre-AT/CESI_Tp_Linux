@@ -17,9 +17,12 @@
 -------------------
 
 **TP1, TP2** = fait.
+
 **TP3** = 3/4 de fait. (Il manque le Backup mais déja effectué ultérieurement)
+
 **VPN** = A finir !
+
 
 Sur mon temps libre de continurais le VPN.
 
-###### Pierre.
+###### Pierre Authier
