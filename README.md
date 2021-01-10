@@ -4,13 +4,13 @@
 
 -------------------
 
-- [x] [TP1 : (Revue de commandes et fichiers élémentaires du système)](https://https://github.com/Pierre-AT/CESI_Tp_Linux/tree/main/TP1) 
+- [x] [TP1 : (Revue de commandes et fichiers élémentaires du système)](https://github.com/Pierre-AT/CESI_Tp_Linux/tree/main/TP1) 
 
-- [x] [TP2 : Mise en place d'une stack web](https://https://github.com/Pierre-AT/CESI_Tp_Linux/tree/main/TP2)
+- [x] [TP2 : Mise en place d'une stack web](https://github.com/Pierre-AT/CESI_Tp_Linux/tree/main/TP2)
 
-- [x] [TP3 : DNS, Backup, Docker ](https://https://github.com/Pierre-AT/CESI_Tp_Linux/tree/main/TP3)
+- [x] [TP3 : DNS, Backup, Docker ](https://github.com/Pierre-AT/CESI_Tp_Linux/tree/main/TP3)
 
-- [ ] [VPN : Mise en place D'OpenVPN](https://https://github.com/Pierre-AT/CESI_Tp_Linux/tree/main/VPN)
+- [ ] [VPN : Mise en place D'OpenVPN](https://github.com/Pierre-AT/CESI_Tp_Linux/tree/main/VPN)
 
 
 
